@@ -16,7 +16,7 @@ To help you when reading the rest of this lesson, keep in mind that an Array of
 Arrays (or a matrix) is well expressed by a ***grid***. Here are some examples
 to get your mind ready.
 
-//Think about those vending machines where you select the item you want by finding
+Think about those vending machines where you select the item you want by finding
 its coordinates and entering them in on a keypad.
 
 ![Grid-based vending machine](https://curriculum-content.s3.amazonaws.com/programming-univbasics-5/nested-arrays-lab/vending_grid.png)
